@@ -5,7 +5,7 @@
 ### Markdown
 
 
-# Umut Can Ebas
+# Umut Can Erbas
 ## Attending to be a Web developer
 ### Cornerstone College
 
